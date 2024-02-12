@@ -20,7 +20,7 @@ The game features a player-controlled character navigating through obstacles and
 
 - <b>Java</b> 
 - <b>Vscode</b>
-- <b>Object Oriented Progerograming</b>
+- <b>Object Oriented Programming</b>
 
 
 <h2>Program walk-through:</h2>
